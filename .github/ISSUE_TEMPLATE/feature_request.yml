@@ -1,6 +1,6 @@
-name: 🐛 Bug Report (Advanced)
-description: Bug Report (Advanced)
-title: "[Bug] <write the title here>"
+name: 💡 Feature Request
+description: Feature Request
+title: "[Feature Request] <write the title here>"
 body:
   - type: textarea
     id: description
